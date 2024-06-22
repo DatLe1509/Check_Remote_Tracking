@@ -7,3 +7,5 @@ Create new branch feature/JNX-7529 => Add commit C
 Add commit D
 
 Add commit C' in main
+
+Add commit E
